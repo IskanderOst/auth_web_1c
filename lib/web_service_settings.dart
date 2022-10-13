@@ -1,5 +1,4 @@
 
-import 'package:auth_web_1c/pages/settings_connection_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 
